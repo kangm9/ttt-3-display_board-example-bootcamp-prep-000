@@ -6,3 +6,9 @@ def display_board
   puts "-----------"
   puts "   |   |   "
 end
+# Write your code here.
+def badge_maker(name)
+    puts "Hello, my name is #{name}."
+end
+
+badge_maker(min)
